@@ -9,7 +9,7 @@
 # --------------------------
 title: $BTCademy                          # the main title
 
-tagline: Crypto trading simplified  # it will display as the sub-title
+tagline: Bitcoin, Cryptocurrency and Ethereum simplified  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Investing in education of Bitcoin, Ethereum and
@@ -26,7 +26,7 @@ github:
   username: github_username             # change to your github username
 
 twitter:
-  username: @Cryptocountant            # change to your twitter username
+  username: Cryptocountant            # change to your twitter username
 
 social:
   name: Seco                  # it will shows as the copyright owner in Footer
