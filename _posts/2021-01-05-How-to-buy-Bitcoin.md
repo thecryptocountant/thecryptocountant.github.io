@@ -3,7 +3,7 @@ title: Getting Started with Crypto
 author: CryptoCountant on Twitter
 date: 2021-01-05 20:55:00 +0800
 categories: [Buying, Cryptocurrency]
-tags: [getting started]
+tags: [getting started, Bitcoin, Ethereum, Cryptocurrency, Buying]
 pin: true
 ---
 
